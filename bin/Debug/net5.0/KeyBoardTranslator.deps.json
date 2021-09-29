@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KeyBoardTranslator/1.0.0": {
+        "runtime": {
+          "KeyBoardTranslator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeyBoardTranslator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

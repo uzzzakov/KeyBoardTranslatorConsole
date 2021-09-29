@@ -1,0 +1,16 @@
+C:\Users\Manucho\source\repos\KeyBoardTranslator\bin\Debug\net5.0\KeyBoardTranslator.exe
+C:\Users\Manucho\source\repos\KeyBoardTranslator\bin\Debug\net5.0\KeyBoardTranslator.deps.json
+C:\Users\Manucho\source\repos\KeyBoardTranslator\bin\Debug\net5.0\KeyBoardTranslator.runtimeconfig.json
+C:\Users\Manucho\source\repos\KeyBoardTranslator\bin\Debug\net5.0\KeyBoardTranslator.runtimeconfig.dev.json
+C:\Users\Manucho\source\repos\KeyBoardTranslator\bin\Debug\net5.0\KeyBoardTranslator.dll
+C:\Users\Manucho\source\repos\KeyBoardTranslator\bin\Debug\net5.0\ref\KeyBoardTranslator.dll
+C:\Users\Manucho\source\repos\KeyBoardTranslator\bin\Debug\net5.0\KeyBoardTranslator.pdb
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\KeyBoardTranslator.csprojAssemblyReference.cache
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\KeyBoardTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\KeyBoardTranslator.AssemblyInfoInputs.cache
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\KeyBoardTranslator.AssemblyInfo.cs
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\KeyBoardTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\KeyBoardTranslator.dll
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\ref\KeyBoardTranslator.dll
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\KeyBoardTranslator.pdb
+C:\Users\Manucho\source\repos\KeyBoardTranslator\obj\Debug\net5.0\KeyBoardTranslator.genruntimeconfig.cache
